@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.venv/
+venv/
+# eski sürüm dosyaları (yerelde duruyor, depoda değil)
+basit_clickler.py
+clicker_*.json
